@@ -1,0 +1,10 @@
+{
+  "name": "yyjeqhc/base32",
+  "version": "0.1.0",
+  "readme": "README.md",
+  "repository": "https://github.com/yyjeqhc/base32",
+  "license": "MIT",
+  "keywords": ["base32"],
+  "description": "encode/decode Bytes use base32 to Array[Byte]",
+  "source": "src"
+}
